@@ -10,6 +10,6 @@ This project helped gain experience using git via your CLI and Visual Studio Cod
   * Create and use a .gitignore file
   * Diff split screen
 
-## Here is an example of using Node.js to stage and commit files
+## Here is an example of code from this project
 
-![Screenshot of folders.png](https://github.com/nataleeirwin/cit281-p1/blob/main/p1%20files/p1-tree.png)
+![Screenshot of p2-expressions.js](https://github.com/nataleeirwin/cit281-p2/blob/main/p2%20files/example%20of%20code%20for%20p2.png)
